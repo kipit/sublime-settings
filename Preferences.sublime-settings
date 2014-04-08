@@ -1,0 +1,14 @@
+{
+    "font_size": 12,
+    "rulers": [75],
+    "translate_tabs_to_spaces": true,
+    "word_wrap": true,
+    "highlight_line": true,
+    "draw_white_space": "all",
+
+    // UI
+    "highlight_modified_tabs": true,
+    "bold_folder_labels": true,
+    "show_encoding": true,
+    "show_line_endings": true
+}
